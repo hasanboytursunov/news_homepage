@@ -111,7 +111,7 @@ h1 {
 .header__logo__img {
 }
 .header__navbar {
-  margin-left: 560px;
+  margin-left: 570px;
 }
 .header__list {
   display: flex;
@@ -136,7 +136,7 @@ h1 {
 }
 .news__container {
   display: flex;
-  gap: 3rem;
+  gap: 2rem;
 }
 .container {
 }
